@@ -1,0 +1,9 @@
+﻿Welcome!
+
+To start the game choose two players, by entering the integer in front of the options.
+
+Options:
+1) Human.
+2) RandomBot (Easy).
+3) NNBot (Medium).
+4) AlphaBetaBot (Hard).

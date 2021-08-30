@@ -1,0 +1,7 @@
+﻿
+Thank you for playing!
+
+Options:
+1) Retry
+2) Start over
+3) Quit

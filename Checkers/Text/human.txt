@@ -1,0 +1,4 @@
+﻿
+You selected Human!
+
+Fill in the indexes of your choice! To see the indexes, type "99" when asked for a move.
