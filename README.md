@@ -1,5 +1,5 @@
 # Checkers
-This project contains an implementation of [Checkers](https://www.chessprogramming.org/Checkers) as a console application, as well as implementation of search algorithms trained with self-play. Over the summer break, I undertook this project as part of my preparation for an assignment in one of the courses within my Master's program in Artificial Intelligence.
+Over the summer break, I undertook this project as part of my preparation for an [assignment](https://github.com/GitHubByJelle/Cannon) in one of the courses within my Master's program in Artificial Intelligence. This project contains an implementation of [Checkers](https://www.chessprogramming.org/Checkers) as a console application, as well as implementation of search algorithms trained with self-play.
 
 <p align="center" width="100%">
     <img src="images/checkers.gif" alt="Visualisation of RandomBot playing a game of Checkers against AlphaBetaBot" width="70%">
