@@ -19,6 +19,8 @@ Based on these algorithms, combined with different feature evaluation functions,
 
 Both NNBot as AlphaBetaBot utilize a Neural Network (NN) as evaluation function. The NN is trained by using an Genetic Algorithm and self-play.
 
+As the assignment for which this project was undertaken does not necessitate visualizations, no visual representations have been incorporated, except for those displayed in the terminal.
+
 ## How to use
 To run the game, open Visual Studio (2019), open the folder and run `Programm.cs`. Please note that the base directory to the `Text` folder needs to be updated in `Game/GameLoop.cs`.
 
