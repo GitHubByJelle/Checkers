@@ -9,7 +9,8 @@ namespace GameLoopC
     class GameLoop
     {
         public Board b;
-        string path = "C:/Users/Jelle/Documents/School UM/Practice C#/Checkers - Console/Checkers/";
+        // TODO: Update the string based on the position of the Text folder.
+        string path = "C:/dev/projects/Checkers/Checkers/";
 
          public void setup()
         {
