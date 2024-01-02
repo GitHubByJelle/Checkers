@@ -24,6 +24,8 @@ As the assignment for which this project was undertaken does not necessitate vis
 ## How to use
 To run the game, open Visual Studio (2019), open the folder and run `Programm.cs`. Please note that the base directory to the `Text` folder needs to be updated in `Game/GameLoop.cs`.
 
+To create a new .exe file, run the code and see the "bin" folder (e.g. the "Release" folder).
+
 ## Known improvements
 The code has been implemented during my summer break with a limited amount of time available. Because of that, there is enough room for improvement:
 * Use inheritance for players
@@ -31,3 +33,5 @@ The code has been implemented during my summer break with a limited amount of ti
 * Use simple evalution function
 * Implement other self-learning algorithms
 * Improve Alpha-Beta Search (e.g. Transposition Tables, Iterative Deepening, etc.)
+
+The code still contains code some experiments / comments for optimising the code (e.g. multiple sorting / evaluation functions). I kept them in, to give in-depth detail on the things I tried.
